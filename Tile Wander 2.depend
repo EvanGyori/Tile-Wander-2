@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1533327501 source:c:\users\sup3r\desktop\c++\windows\tile wander 2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"Players.h"
+	"World.h"
+	"Info.h"
+
+1533172425 c:\users\sup3r\desktop\c++\windows\tile wander 2\include\players.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
+1533172413 source:c:\users\sup3r\desktop\c++\windows\tile wander 2\src\players.cpp
+	"Players.h"
+	"Info.h"
+
+1533245120 c:\users\sup3r\desktop\c++\windows\tile wander 2\include\info.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+
+1533328616 c:\users\sup3r\desktop\c++\windows\tile wander 2\include\world.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+
+1533328624 source:c:\users\sup3r\desktop\c++\windows\tile wander 2\src\world.cpp
+	"World.h"
+	"Info.h"
+
+1533245435 source:c:\users\sup3r\desktop\c++\windows\tile wander 2\info.cpp
+	"Info.h"
+
+1533176070 source:c:\users\sup3r\desktop\c++\windows\tile wander 2\src\format.cpp
+	"Format.h"
+
+1533176070 c:\users\sup3r\desktop\c++\windows\tile wander 2\include\format.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
+1555801727 source:c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\info.cpp
+	"Info.h"
+
+1555891779 c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\include\info.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+
+1547620473 source:c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\src\players.cpp
+	"Players.h"
+	"Info.h"
+
+1547620465 c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\include\players.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
+1555889448 source:c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\src\world.cpp
+	"World.h"
+	"Info.h"
+
+1555019737 c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\include\world.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+
+1555890736 source:c:\users\sup3r\desktop\code stuff\c++\windows\tile wander 2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"Players.h"
+	"World.h"
+	"Info.h"
+
