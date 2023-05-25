@@ -6,6 +6,8 @@ Only works on windows.
 ## Overview
 The purpose of this project was to learn C++ classes by remaking a console game that I [previously made](https://github.com/EvanGyori/TileWander) in C++ and to tidy up the game.
 
+Procedurally generated console turn based game. Kill enemies to collect better weapons and loot.
+
 ## Usage
 Create a build directory and run cmake from the build directory
 ```
