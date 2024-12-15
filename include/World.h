@@ -60,7 +60,7 @@ class World
     protected:
 
     private:
-        float tiles[60000][8]; // 0 - x, 1 - y, 2 - id
+        float tiles[10000][8]; // 0 - x, 1 - y, 2 - id
             //Enemy/Trap/Boss Tile 3 - typeId, 4 - loot tier, 5 - maxhp, 6 - hp, 7 - attack dmg
             //Loot Tile 3 - loot tier, 4 - loot type (0-gold, 1-weapon), 5 - value, 6 value
         int tileLength;
